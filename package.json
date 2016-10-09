@@ -1,0 +1,21 @@
+{
+  "name": "newproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+  },
+  "author": "Christian Freitas",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.9"
+  }
+}
